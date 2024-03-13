@@ -1,0 +1,74 @@
+{
+  "projects": [
+    {
+      "name": "teste",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "UAC",
+      "budget": "6666666",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 1510000,
+      "services": [
+        {
+          "name": "Exterminador de Demônios",
+          "cost": "10000",
+          "description": "Equipe profissional especialista em matar demônios",
+          "id": "a5022231-9d6a-4263-8b86-a68684597d20"
+        },
+        {
+          "name": "Coletador de Energia Argent",
+          "cost": "1000000",
+          "description": "Dispositivo tecnológico que captura a energia Argent",
+          "id": "615f67c2-f067-401b-bc88-29bf4910868e"
+        },
+        {
+          "name": "Filtro de Energia Argent",
+          "cost": "500000",
+          "description": "Filtra a energia vinta do Coletador de Energia Argent",
+          "id": "9459fb4c-e410-4892-9ea8-d41bbdfd2890"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "GG",
+      "budget": "31072000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
